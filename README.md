@@ -14,4 +14,4 @@ https://www.kaggle.com/datasets/prasertk/netflix-subscription-price-in-different
 
 -> Código
 
-O código é em Python, utilizando bibliotecas como Pandas, Dash e Plotly para análise e visualização de dados.
+O código é feito em Python, utilizando bibliotecas como Pandas, Dash e Plotly para análise e visualização de dados.
